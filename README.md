@@ -1,2 +1,2 @@
 # Todo-List
-A todo list capable of adding, deleting, and saving completed items. Built solely in HTML, CSS, and Javascript.
+A todo list capable of adding, deleting, and saving completed items. Built using HTML, CSS, and Javascript.
